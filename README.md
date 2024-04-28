@@ -4,7 +4,7 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvNThuamh1a3V1dHdsbHhmZ2M5bGJwcmx3dXZvYnBxbjNkcHp6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Ericode254)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io/" target="_blank"> <img src="icons/angular/angular-original.svg" alt="c" width="40" height="40"/> </a>
+<p align="left"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
