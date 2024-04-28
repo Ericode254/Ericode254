@@ -12,9 +12,11 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## Achievemants
+## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Progress
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
