@@ -10,6 +10,6 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
+## My Progress
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ericode254)](https://git.io/streak-stats)
 
