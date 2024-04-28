@@ -13,5 +13,5 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 </p>
 
 ## My Progress
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
