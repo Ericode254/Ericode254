@@ -1,9 +1,7 @@
 ### Hi there 👋
 I am Erick but i go by Ericode254 here and i love programming and tech in general
 
-<p align="center">
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0M3RlOTV0MDI5eTdjYXdwODh1bjk2bDV5NmRlcmpicHV0czRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Ericode254)
-</p>
+:---:[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0M3RlOTV0MDI5eTdjYXdwODh1bjk2bDV5NmRlcmpicHV0czRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Ericode254)
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> <p/>
