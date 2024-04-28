@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am Erick but i go by Ericode254 here and i love programming and tech in general
 
-| :-: |
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0M3RlOTV0MDI5eTdjYXdwODh1bjk2bDV5NmRlcmpicHV0czRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Ericode254)
   
 <h3 align="left">Languages and Tools:</h3>
