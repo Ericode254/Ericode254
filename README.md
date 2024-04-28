@@ -5,6 +5,7 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> </a><p align="left"> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><p align="left"> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a><p align="left"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +17,5 @@ I am Erick but i go by Ericode254 here and i love programming and tech in genera
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Progress
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
