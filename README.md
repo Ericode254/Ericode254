@@ -4,7 +4,7 @@
   </a>
 </p>
 
- <p align="center"> I'm Erick, a seasoned software engineer passionate about crafting innovative solutions. With several years of experience, I specialize in various technologies, leveraging agile methodologies and collaborative teamwork to deliver top-notch projects. I thrive on continuous learning, staying updated with the latest tech trends, and fostering a supportive community. Let's connect and push the boundaries of technology together!</p>
+ <p align="center"> 👋 I'm Erick, a seasoned software engineer passionate about crafting innovative solutions. With several years of experience, I specialize in various technologies, leveraging agile methodologies and collaborative teamwork to deliver top-notch projects. I thrive on continuous learning, staying updated with the latest tech trends, and fostering a supportive community. Let's connect and push the boundaries of technology together! 😎 </p>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> <p/>
