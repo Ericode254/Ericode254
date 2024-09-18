@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/erick_jillo" target="blank"><img src="https://img.shields.io/twitter/follow/erick_jillo?logo=twitter&style=for-the-badge" alt="erick_jillo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jilloerick.com](jilloerick.com)
+- 👨‍💻 All of my projects are available at [jilloerick.com](jilloerick.com) ---> COMING SOON!!!
 
 - 💬 Ask me about **react, node, express, python etc**
 
