@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Erick Jillo and i am a programmer who loves working on great ideas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=1DF758&multiline=true&width=435&lines=My+name+is+Erick+Jillo+and+i+am+a+programmer+who+loves+working+on+great+ideas.)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
