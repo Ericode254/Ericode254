@@ -12,8 +12,5 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh6eDN1OWE3dmFsN2EydHdvNHpxOTc3Z3lubXplMjY5MTlzY2xvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOZt5tdGYxzz0H6Nfi/giphy.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/erick-jillo-9aaa08271/)
 </div>
