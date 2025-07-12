@@ -65,10 +65,9 @@
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [youremail@example.com](mailto:youremail@example.com)
-- 🌐 Portfolio: [yourportfolio.example.com](https://yourportfolio.example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📦 npm: [yourhandle](https://www.npmjs.com/~yourhandle)
+- ✉️ Email: [jilloerick6@gmail.com](mailto:jilloerick6@gmail.com)
+- 🌐 Portfolio: [https://erico.netlify.app](https://erico.netlify.app)
+- 🐦 Twitter: [@erick_jillo](https://twitter.com/@erick_jillo)
 
 ---
 
