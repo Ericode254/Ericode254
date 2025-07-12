@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=orange" alt="Profile views" />
+  <a href="https://github.com/Ericode254">
+    <img src="https://komarev.com/ghpvc/?username=Ericode254&style=flat-square&color=orange" alt="Profile views" />
   </a>
   <a href="https://github.com/Ericode254?tab=repositories">
     <img src="https://img.shields.io/github/languages/top/Ericode254/yourrepo?style=flat-square&color=yellow" alt="Top language" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/@erick_jillo?style=social" alt="Twitter Follow" />
   </a>
 </p>
 
