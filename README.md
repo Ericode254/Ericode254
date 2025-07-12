@@ -12,8 +12,8 @@
   <a href="https://github.com/yourusername">
     <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=orange" alt="Profile views" />
   </a>
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://img.shields.io/github/languages/top/yourusername/yourrepo?style=flat-square&color=yellow" alt="Top language" />
+  <a href="https://github.com/Ericode254?tab=repositories">
+    <img src="https://img.shields.io/github/languages/top/Ericode254/yourrepo?style=flat-square&color=yellow" alt="Top language" />
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=gruvbox" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericode254&theme=gruvbox" alt="GitHub streak" />
 </p>
 
 ---
