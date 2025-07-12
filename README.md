@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/languages/top/Ericode254/yourrepo?style=flat-square&color=yellow" alt="Top language" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/@erick_jillo?style=social" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/erick_jillo?style=social" alt="Twitter Follow" />
   </a>
 </p>
 
