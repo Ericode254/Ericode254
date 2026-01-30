@@ -26,6 +26,7 @@
 
 - 💻 **Web Developer** building with modern stacks (React, Tailwind CSS, Node.js)
 - 🐧 **Linux User** (mostly Arch Linux 🏴‍☠️) customizing my workflow
+- 🐧 **Linux Admin** configure the linux system and linux servers.
 - ✨ **Neovim Tweaker** – building configs and exploring the terminal world
 - 🌱 Currently exploring **AI integration**, **CLI tools in Go**, and **low-level programming**
 
@@ -54,6 +55,9 @@
 </p>
 
 ---
+
+## Github Activity Graph
+[![Ericode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ericode254&theme=gruvbox)](https://github.com/Ericode254/github-readme-activity-graph)
 
 ## ✨ Fun facts
 
