@@ -49,15 +49,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericode254&theme=gruvbox" alt="GitHub streak" />
-</p>
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=gruvbox)
 
 ---
 
 ## Github Activity Graph
 [![Ericode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ericode254&theme=gruvbox)](https://github.com/Ericode254/github-readme-activity-graph)
+
+---
 
 ## ✨ Fun facts
 
