@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-[![Ericode's GitHub stats](https://github-readme-stats.vercel.app/api?Ericode254)](https://github.com/Ericode254/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ericode254&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
