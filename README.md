@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-[![Ericode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254)](https://github.com/Ericode254/github-readme-stats)
+[![Ericode's GitHub stats](https://github-readme-stats.vercel.app/api?Ericode254)](https://github.com/Ericode254/github-readme-stats)
 
 ---
 
