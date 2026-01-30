@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ericode254&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Github Activity Graph
 [![Ericode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ericode254&theme=gruvbox)](https://github.com/Ericode254/github-readme-activity-graph)
 
