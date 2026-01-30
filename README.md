@@ -73,5 +73,6 @@
 - 🐦 Twitter: [@erick_jillo](https://twitter.com/@erick_jillo)
 
 ---
+## Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-> ⚙️ *“Hackable tools make coding fun.”*
