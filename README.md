@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254&show_icons=true&theme=gruvbox)
+[![Ericode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericode254)](https://github.com/Ericode254/github-readme-stats)
 
 ---
 
