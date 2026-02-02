@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 
 - ✉️ Email: [jilloerick6@gmail.com](mailto:jilloerick6@gmail.com)
-- 🌐 Portfolio: [https://erico.netlify.app](https://erico.netlify.app)
+- 🌐 Portfolio: [https://erico.netlify.app](https://ericobackend.netlify.app)
 - 🐦 Twitter: [@erick_jillo](https://twitter.com/@erick_jillo)
 
 ---
